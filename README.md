@@ -60,6 +60,55 @@ max
 min
 
 
+# flex box 
+Layout modes before flex box
+block for sections in a webpage 
+inline for text
+Table for two dimensional table data
+positioned, for expicit of an element
+
+why flex box 
+A lot of flexiblity
+arrange items
+spacing 
+alingment 
+order items 
+
+terminology
+--> Flex Container 
+display 
+flex-direction
+-> row, row-reverse, column and column-reverse
+flex-wrap 
+-> wrap. wrap-reverse, nowrap
+flex-flow: <flex-direction><flex-wrap>
+
+Gap properties:-
+
+specify the gap between columns using column-gap 
+specify the gap between rows using row-gap
+specify both row and column gap using <row gap><column gap>
+column-gap 
+row-gap
+gap 
+justify content
+align-items
+- Flex-start , flex-end, center, baseline, strech
+alingn content
+
+flex Items Properties
+1. Order to change the order of items
+2. Flex-grow it takes the additional; space, default value is 0
+3. Flex-shrink relative to other items & shrinks
+4. Flex-basis 
+5. Flex <flex-grow><flex-shrink><flex-basis>
+6. align-self alignment of individual items
+
+
+
+
+
+
 
 
 
